@@ -21,6 +21,7 @@
     "@jetbrains/icons": "3.14.1",
     "@jetbrains/logos": "1.4.16",
     "@jetbrains/ring-ui": "4.0.12",
+    "@reduxjs/toolkit": "^1.6.0",
     "babel-loader": "^8.2.2",
     "classnames": "^2.3.1",
     "copy-webpack-plugin": "^9.0.0",
